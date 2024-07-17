@@ -103,3 +103,4 @@
 /home/terence/Documents/faid-dev/csharp-crud-api/obj/Debug/net8.0/csharp-crud-api.pdb
 /home/terence/Documents/faid-dev/csharp-crud-api/obj/Debug/net8.0/csharp-crud-api.genruntimeconfig.cache
 /home/terence/Documents/faid-dev/csharp-crud-api/obj/Debug/net8.0/ref/csharp-crud-api.dll
+/home/terence/Documents/faid-dev/csharp-crud-api/obj/Debug/net8.0/csharp-crud-api.sourcelink.json
